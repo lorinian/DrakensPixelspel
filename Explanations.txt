@@ -1,0 +1,13 @@
+Vi vill skapa ett spel i python. 
+
+Spelet skall ha en pixlig känsla. 
+
+Det första som händer är att man skall se en pixligbild, för inspiration se bild1.HEIC.
+På texten skall det stå "START". Innanför rutan skall det vara vitt, utan för rutan skall det vara svart. Texten skall vara blå.
+
+Den andra bilden, Bild2.HEIC, visar ett exempel på hur det skall se ut när man spelar spelet. Den lilla figuren är spelets huvudperson.
+Det stora monstret till höger är bossen.
+
+Huvudpersonen kan skjuta saker. Det är det som det lilla "korset" eller plustecknet visar. 
+
+Vill du hjälpa oss att skapa detta spel?
